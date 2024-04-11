@@ -1,1 +1,1 @@
-# lottery-java-project
+# lottery-project
